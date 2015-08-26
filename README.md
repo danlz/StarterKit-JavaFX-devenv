@@ -1,6 +1,6 @@
 # StarterKit-JavaFX-devenv
 
-Template for development environment for the StarterKit-JavaFX training
+## Template for development environment for the StarterKit-JavaFX training
 
 The following directories must be filled with corresponding items:
 
@@ -12,6 +12,6 @@ git | Portable Git | https://git-scm.com/download/win
 jdk | JDK 8 | http://www.oracle.com/technetwork/java/javase/downloads/index.html
 scenebuilder | Scene Builder 8 executable jar | http://gluonhq.com/open-source/scene-builder/
 
-The **sources** directory contains cloned Git repositories. The **workspace** directory contains Eclipse workspace.
+The cloned repositories will be stored in the **sources** directory. The Eclipse workspace will be stored in the **workspace** directory.
 
 The base directory of this environment should be "C:\StarterKit-JavaFX" (This file's path should be "C:\StarterKit-JavaFX\README.md").
