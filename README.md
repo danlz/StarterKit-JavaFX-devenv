@@ -12,5 +12,6 @@ git | Portable Git | https://git-scm.com/download/win
 jdk | JDK 8 | http://www.oracle.com/technetwork/java/javase/downloads/index.html
 scenebuilder | Scene Builder 8 executable jar | http://gluonhq.com/open-source/scene-builder/
 
-The **sources** directory contains cloned Git repositories.
-The **workspace** directory contains Eclipse workspace.
+The **sources** directory contains cloned Git repositories. The **workspace** directory contains Eclipse workspace.
+
+The base directory of this environment should be "C:\StarterKit-JavaFX" (This file's path should be "C:\StarterKit-JavaFX\README.md").
