@@ -3,6 +3,7 @@
 Template for development environment for the StarterKit-JavaFX training
 
 The following directories must be filled with corresponding items:
+
 Directory | Description | Download site
 --------- | ----------- | -------------
 apache-maven | Apache Maven 3 | https://maven.apache.org/download.cgi
