@@ -15,3 +15,12 @@ scenebuilder | Scene Builder 8 executable jar | http://gluonhq.com/open-source/s
 The cloned repositories will be stored in the **sources** directory. The Eclipse workspace will be stored in the **workspace** directory.
 
 The base directory of this environment should be "C:\StarterKit-JavaFX" (This file's path should be "C:\StarterKit-JavaFX\README.md").
+
+### Building the SceneBuilder from sources
+
+1. Download Ant from: http://ant.apache.org/
+2. Download the "rt" source archive from: http://hg.openjdk.java.net/openjfx
+3. Unpack
+4. Go to "apps/scenebuilder"
+5. Build with "ant jar-sb"
+6. Get the jars from "SceneBuilderApp/dist/" and "SceneBuilderKit/dist/"
